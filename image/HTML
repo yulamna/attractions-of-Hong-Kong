@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title>Attactions in Hong Kong</title>
+        <meta name="discription" content="come and visit 3 iconic place in Hong Kong">
+        <meta name="author" content="Bianna Yu">
+    </head>
+    <body>
+        <h1 align="center">Welcome to Hong Kong, let's me introduce 3 attections to you!</h1>
+<h2>3 places where you should check it out</h2>
+<h3> <ol>
+    <li>Kwun Tong Lok Wah South Estate</li>
+    <li>Green "Time Tunnel" of Yuen Long</li>
+    <li>Choi Hung Estate Basketball Court</li>
+</ol> </h3>
+<h2>Kwun Tong Lok Wah South Estate</h2>
+
+
+<h2>Green "Time Tunnel" of Yuen Long</h2>
+<img src="img/Yuenlong.jpg">
+<p><mark> you need to bring </mark>
+    <ul>
+        <li>insect repellent</li>
+        <li>map</li>
+        <li>compass</li>
+    </ul>
+</p>
+<h2>Choi Hung Estate Basketball Court</h2>
+<p>it is near residences,so <strong>please lower the volume</strong></p>
+
+<p>For more information, please visit <a href="https://www.sundaymore.com/lifestyle/香港影相好去處-文青-打卡位-熱點-拍拖-ig-人氣-影相-568706/6/">blog post</a></p>
+<p>Visit <a href="https://www.sundaymore.com/lifestyle/香港影相好去處-文青-打卡位-熱點-拍拖-ig-人氣-影相-568706/6/" target="_blank"</a>in a new window </p>
+
+
+
+
+
+
+    </body>
+</html>
