@@ -1,0 +1,14 @@
+h1{
+    color: brown;}
+h2{color: coral;}
+.standout{color: darkgoldenrod;}
+h1.title {font-family: fantasy;}
+h2.places {font-family: fantasy;}
+p.standout{font-family: fantasy;}
+h2.others {font-family: fantasy;}
+h3.places{font-family: fantasy;}
+p.contact{font-family: monospace;}
+caption.caption{font-family: fantasy;}
+tr.tr{font-family: fantasy;}
+table {background: rgba(255, 0, 0, 0.25);
+    font-family: serif;}
